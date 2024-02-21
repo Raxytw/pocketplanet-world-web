@@ -1,4 +1,4 @@
 <div align="center">
   
-# `PocketPlanet-World-Web`
+# `pocketplanet-world-web`
 </div>
