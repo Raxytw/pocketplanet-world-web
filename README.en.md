@@ -18,5 +18,3 @@ Based on greenhouse data monitoring as the main focus, and with real-time update
 [Web repository Link]: https://github.com/pocketplanet/Micro-world-code
 
 </div>
-
-> 中文用戶請查看 [`README.md`](https://github.com/Raxytw/pocketplanet-world-web/blob/main/README.md) 檔案。
