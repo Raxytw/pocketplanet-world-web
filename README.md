@@ -15,7 +15,7 @@
 [![Link to Web repository Button]][Web repository Link]
 
 [Link to Web repository Button]:https://img.shields.io/badge/前往_rasberry_pi_and_Arduino_uno_儲存庫_>-4ba2e9?style=for-the-badge
-[Web repository Link]: https://github.com/pocketplanet/pocketplanet-world-
+[Web repository Link]: https://github.com/pocketplanet/micro-world-code
 
 </div>
 
